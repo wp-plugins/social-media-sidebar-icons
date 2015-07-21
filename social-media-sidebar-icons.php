@@ -2,7 +2,7 @@
 /**
 * Plugin Name: Social Media Sidebar Icons
 * Plugin URI: http://www.maucher-online.com
-* Description: WP Social Media ermöglicht das Einfügen von Youtube, Twitter, Facebook und Google+ als Widget in der Sidebar oder in anderen Widget Bereichen.
+* Description: Social Media Sidebar Icons ermöglicht das Einfügen von Youtube, Twitter, Facebook und Google+ als Widget in der Sidebar oder in anderen Widget Bereichen.
 * Version: 0.1
 * Author: David Maucher
 * Author URI: http://www.maucher-online.com

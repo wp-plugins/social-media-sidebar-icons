@@ -1,4 +1,4 @@
-=== Social Media Sidbar Icons ===
+=== Social Media Sidebar Icons ===
 Contributors: David Maucher
 Tags: social button, facebook button, google+ button, twitter button, youtube button, social icon
 Requires at least: 4.0
@@ -6,10 +6,10 @@ Tested up to: 4.2.2
 Stable tag: trunk
 License: GPL2
 
-This plugin gives the opportunity to show socia icons on your website. Simply drag the widget in the widget area and enter the URL of your different social media canals.
+This plugin gives the opportunity to show social icons on your website. Simply drag the widget in the widget area and enter the URL of your channels.
 
 == Description ==
-This plugin gives the opportunity to show socia icons on your website. Simply drag the widget in the widget area and enter the URL of your different social media canals. You can also choose between different styles to customize your social icons.
+This plugin shows social icons on your website. Simply put the URL in the widget area. You can also choose between different styles to customize your social icons.
 
 == Installation ==
 1. Choose the plugin \"Social Media Sidebar Icons\" from the list in your WordPress backend.
@@ -23,4 +23,5 @@ This plugin gives the opportunity to show socia icons on your website. Simply dr
 3. The Output
 
 == Changelog ==
-1.0
+0.1
+0.11
