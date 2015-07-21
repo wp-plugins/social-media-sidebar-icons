@@ -1,0 +1,5 @@
+.social-button-input input,
+.social-button-input select { 
+	float: right;
+	width: 70%;
+}

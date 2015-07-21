@@ -1,0 +1,51 @@
+.social-widget ul {
+	margin: 0;
+	padding: 0;
+}
+.social-widget ul li {
+	list-style-type: none;
+	display: inline-block;
+	margin-right: 15px;
+}
+.social-widget ul li:last-child {
+	margin-right: 0;
+}
+.round-coloured {
+	font-size: 3em;
+}
+.round-black i {
+	font-size: 3em;
+	color: black;
+}
+.corners-black .fa-stop {
+	color: black;
+}
+.round-coloured .fa-facebook-square {
+	color: #314A87;
+}
+.round-coloured .fa-twitter-square {
+	color: #22BBF4;
+}
+.round-coloured .fa-google-plus-square {
+	color: #CF171F;
+}
+.round-coloured .fa-youtube-square {
+	color: #D72A25;
+}
+.corners-coloured .fa-facebook {
+	color: #314A87;
+}
+.corners-coloured .fa-twitter {
+	color: #22BBF4;
+}
+.corners-coloured .fa-google-plus {
+	color: #CF171F;
+}
+.corners-coloured .fa-youtube {
+	color: #D72A25;
+}
+.corners-coloured .fa-stop {
+	color: transparent;
+	border: 1px solid grey;
+	box-shadow: inset 2px 2px 5px grey;
+}
